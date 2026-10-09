@@ -1,4 +1,4 @@
-# Space Protocol
+# [Space Protocol](https://space-protocol-project.github.io/space-protocol)
 
 Открытый проект self-hosted социальных пространств: каналы, чат, форум, лента, голосовые комнаты, конференции и эфиры в универсальном клиенте.
 
